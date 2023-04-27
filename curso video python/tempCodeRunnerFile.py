@@ -1,2 +1,0 @@
-
-        nomevelho = nome
