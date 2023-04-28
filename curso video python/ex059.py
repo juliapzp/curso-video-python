@@ -14,6 +14,7 @@ while opcao != 5:
     elif opcao == 3:
         if n1 > n2:
             maior = n1
+            print(f'Entre {n1} e {n2}, {maior} é o número maior.')
         elif n1 < n2:
             maior = n2
             print(f'Entre {n1} e {n2}, {maior} é o número maior.')
